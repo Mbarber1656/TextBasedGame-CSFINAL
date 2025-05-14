@@ -4,6 +4,6 @@
 ![image](https://github.com/user-attachments/assets/9815387f-a3ae-4dcb-83ff-86a884154e3b)
 input has basic check to make sure input is between 1 and two
 uses a stack to store addresses of large text, flavor text ment to drive the "adventure"
-to improve i would work on getting around the offset limit to create a larger program
-https://github.com/chiragsakhuja/lc3tools/releases
+to improve i would work on getting around the offset limit to create a larger program \n
+https://github.com/chiragsakhuja/lc3tools/releases   \n
 ^The link to the used LC3 simulator
